@@ -11,7 +11,9 @@ public class Constructor1{
     }
     public static void main(String args[])
     {
-        Constructor1 myObj = new Constructor1("Grenor" , 32);
+
+
+        Constructor1 myObj = new Constructor1("Vasya" , 25);
         myObj.display();
     }
 }
