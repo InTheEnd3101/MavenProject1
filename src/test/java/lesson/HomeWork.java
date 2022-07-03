@@ -1,3 +1,5 @@
+package lesson;
+
 public class HomeWork {
 
     int age;
@@ -6,9 +8,9 @@ public class HomeWork {
 
     public static void main(String[] args){
         HomeWork human = new HomeWork();
-        human.age = 30;
+        human.age = 25;
         human.name = "Vasya";
-        human.weight = 75.5;
+        human.weight = 90.5;
         System.out.println("Techno " + " \n"+ human.age +" \n"+human.name +" \n"+human.weight);
     }
 }

@@ -1,3 +1,5 @@
+package lesson;
+
 public class Constructor1{
     String studentName;
     int studentAge;
